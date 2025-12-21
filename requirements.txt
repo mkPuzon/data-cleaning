@@ -1,7 +1,21 @@
+# ---- Core data processing ---- #
 pandas
 numpy
 scikit-learn
 matplotlib
 
-# ----  For Jupyter Notebooks ----#
-ipynbkernel
+# ---- Document text extraction ---- #
+pypdf
+docling
+docling-core
+
+# ---- Database ---- #
+psycopg[binary]
+pgvector
+
+# ---- LLMs ---- #
+torch
+sentence-transformers
+
+# ----  For Jupyter notebooks ---- #
+ipykernel
