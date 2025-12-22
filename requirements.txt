@@ -10,7 +10,8 @@ docling
 docling-core
 
 # ---- Database ---- #
-psycopg[binary]
+psycopg2
+sqlalchemy
 pgvector
 
 # ---- LLMs ---- #
